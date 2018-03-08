@@ -4,8 +4,8 @@
 ### [1. Tổng quan về Python](docs/python-overview.md)
 ### [2. Cú pháp cơ bản](docs/python-syntax.md)
 ### [3. Biến, toán tử, biểu thức](docs/variables-operator.md)
-#### 3.1 Numbers
-#### 3.2 Strings
+#### [3.1 Numbers](docs/numbers.md)
+#### [3.2 Strings](docs/string.md)
 #### 3.3 Lists
 #### 3.4 Tuples
 #### 3.5 Dictionaries
