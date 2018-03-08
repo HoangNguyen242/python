@@ -11,7 +11,7 @@
 ### [4. Biểu thức điều kiện](docs/conditional.md)
 ### [5. Vòng lặp](docs/loop.md)
 ### [6. Hàm](docs/function.md)
-### 7. Packages và Modules
+### [7. Packages và Modules](docs/module-package.md)
 ### 8. Đọc ghi File
 ### 9. Regular expressions
 
