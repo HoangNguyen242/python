@@ -147,3 +147,6 @@ square=lambda x1: x1*x1
 #Goi square nhu la mot ham
 print "Binh phuong cua so la",square(10)
 ```
+
+## Nguồn
+http://vietjack.com/python/ham_trong_python.jsp
