@@ -142,3 +142,5 @@ PackageTest.msg3()
 > __init__.py file
 
 > file được sử dụng để xem xét các thư mục trên disk dưới dạng package của Python. Về cơ bản, file này được sử dụng để khởi tạo các Package trong Python.
+
+![](images/module-package-1.png)
