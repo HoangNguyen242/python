@@ -6,7 +6,7 @@
 ### [3. Biến, toán tử, biểu thức](docs/variables-operator.md)
 #### [3.1 Numbers](docs/numbers.md)
 #### [3.2 Strings](docs/string.md)
-#### 3.3 Lists
+#### [3.3 Lists](docs/list.md)
 #### 3.4 Tuples
 #### 3.5 Dictionaries
 ### [4. Biểu thức điều kiện](docs/conditional.md)
@@ -22,3 +22,5 @@
 ### Tính dãy FIBO
 ### Kiểm chứng các loại hàm
 ### Kiểm chứng module package
+### Làm việc với String
+### Làm việc với List
