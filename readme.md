@@ -23,7 +23,7 @@
 ### Kiểm chứng các loại hàm (done)
 ### Kiểm chứng module package (done)
 ### Làm việc với String
-### Làm việc với List
+### Làm việc với List (done)
 ### Làm việc với Tuple
 ### Làm việc với dictionarie
 ### Đọc ghi file cơ bản
