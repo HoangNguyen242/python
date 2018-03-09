@@ -25,5 +25,5 @@
 ### Làm việc với String
 ### Làm việc với List (done)
 ### Làm việc với Tuple (done)
-### Làm việc với dictionarie
+### Làm việc với dictionary (done)
 ### Đọc ghi file cơ bản
