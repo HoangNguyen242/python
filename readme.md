@@ -8,7 +8,7 @@
 #### [3.2 Strings](docs/string.md)
 #### [3.3 Lists](docs/list.md)
 #### [3.4 Tuples](docs/tuple.md)
-#### 3.5 Dictionaries
+#### [3.5 Dictionaries](docs/dictionary.md)
 ### [4. Biểu thức điều kiện](docs/conditional.md)
 ### [5. Vòng lặp](docs/loop.md)
 ### [6. Hàm](docs/function.md)
@@ -26,4 +26,4 @@
 ### Làm việc với List
 ### Làm việc với Tuple
 ### Làm việc với dictionarie
-### Đọc ghi file cơ bản 
+### Đọc ghi file cơ bản
