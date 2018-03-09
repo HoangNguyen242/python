@@ -17,10 +17,13 @@
 ### 9. Regular expressions
 
 ## Thực hành
-### Hàm tính tổng
-### Sắp xếp tăng giảm
-### Tính dãy FIBO
-### Kiểm chứng các loại hàm
-### Kiểm chứng module package
+### Hàm tính tổng (done)
+### Sắp xếp tăng giảm (done)
+### Tính dãy FIBO (done)
+### Kiểm chứng các loại hàm (done)
+### Kiểm chứng module package (done)
 ### Làm việc với String
 ### Làm việc với List
+### Làm việc với Tuple
+### Làm việc với dictionarie
+### Đọc ghi file cơ bản 
