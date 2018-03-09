@@ -13,7 +13,7 @@
 ### [5. Vòng lặp](docs/loop.md)
 ### [6. Hàm](docs/function.md)
 ### [7. Packages và Modules](docs/module-package.md)
-### 8. Đọc ghi File
+### [8. Đọc ghi File](docs/file.md)
 ### 9. Regular expressions
 
 ## Thực hành
@@ -26,4 +26,4 @@
 ### Làm việc với List (done)
 ### Làm việc với Tuple (done)
 ### Làm việc với dictionary (done)
-### Đọc ghi file cơ bản
+### Đọc ghi file cơ bản (done)
