@@ -7,7 +7,7 @@
 #### [3.1 Numbers](docs/numbers.md)
 #### [3.2 Strings](docs/string.md)
 #### [3.3 Lists](docs/list.md)
-#### 3.4 Tuples
+#### [3.4 Tuples](docs/tuple.md)
 #### 3.5 Dictionaries
 ### [4. Biểu thức điều kiện](docs/conditional.md)
 ### [5. Vòng lặp](docs/loop.md)
