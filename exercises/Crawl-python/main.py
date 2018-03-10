@@ -37,7 +37,8 @@ def get_list_link():
             #print(urljoin(SOURCE_URL, obj.attrs['href']))
             link_obj = urljoin(SOURCE_URL, obj.attrs['href'])
             print(link_obj)
-            list_post.append(get_content_post(link_obj))
+            # list_post.append(get_content_post(link_obj))
+            r = json.dumps(get_content_post(link_obj))
             print("done")
     else: 
         print("khong truy cap duoc")
@@ -45,8 +46,8 @@ def get_list_link():
     return list_post
 # main
 def main():
-    #print(get_list_link())
-    print(get_content_post('http://vietnamnet.vn/vn/cong-nghe/tin-cong-nghe/samsung-dang-nam-giu-cong-nghe-sac-pin-dot-pha-434821.html'))
+    print(get_list_link())
+    #print(get_content_post('http://vietnamnet.vn/vn/cong-nghe/tin-cong-nghe/samsung-dang-nam-giu-cong-nghe-sac-pin-dot-pha-434821.html'))
 
 
 if __name__ == "__main__":
