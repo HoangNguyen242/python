@@ -17,8 +17,8 @@
 ### 9. Regular expressions
 
 ## Hướng đối tượng Python
-### [1. Class, cú pháp khai báo](docs/py-opp-overview.md)
-### [2. Cấu tử, hủy tử](docs/py-opp-con-des.md)
+### [1. Class, cú pháp khai báo](docs/py-oop-overview.md)
+### [2. Cấu tử, hủy tử](docs/py-oop-con-des.md)
 
 
 ## Mở rộng
