@@ -17,6 +17,9 @@
 ### 9. Regular expressions
 
 ## Hướng đối tượng Python
+### [1. Class, cú pháp khai báo](docs/py-opp-overview.md)
+### [2. Cấu tử, hủy tử](docs/py-opp-con-des.md)
+
 
 ## Mở rộng
 ### [1. Virtual Environment trong Python](docs/python-virtualenv.md)
