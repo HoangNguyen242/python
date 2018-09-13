@@ -81,3 +81,9 @@ def show_detail_2(name, **kwargs):
 
 show_detail_2(name='Coulson', age='40', level='A')
 ```
+
+# Nguồn
+
+https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/
+
+https://daynhauhoc.com/t/cach-truyen-tham-so-dang-args-va-kwargs-trong-python/7115
